@@ -26,11 +26,14 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Explain benefit(s) using `client-side routing`?
 > Answer:
+I think it offers control of your site URL without refreshing the page, because youaren't having to be dependent on having the server respond. It's faster
 - [ ] What does AJAX stand for?
 > Answer:
+Asynchronous JavaScript And XML
 - [ ] What are `controlled components` in React?
 > Answer:
 
+Controlled data is form data that is handled by a React Component
 
 ## Project Set Up
 
